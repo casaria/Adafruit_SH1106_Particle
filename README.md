@@ -1,3 +1,9 @@
+#SH1106 Driver for Particle
+*Actual work was done by (forked from): https://github.com/wonho-maker/Adafruit_SH1106
+*Ported By Gerrit Coetzee, gerritcoetzee.com 2017
+*Stack-overflowed heavily from Paul Kourany's port of the Adafruit_SSD1306 library for particle 
+
+
 Adafruit_SH1106
 ===============
 
